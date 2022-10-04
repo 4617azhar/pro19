@@ -1,0 +1,30 @@
+body{
+    background-image: url(background-image1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.first{
+    background-color: red;
+    color: white;
+}
+.first1{
+    background-color: red;
+    color: white;
+    text-align: right;
+}
+
+table{
+    background-color: white;
+    font-size: 24px;
+    
+}
+
+#parent{
+    margin: 50px;
+    padding: 15px;
+}
+
+.logo{
+    text-align: right;
+}
